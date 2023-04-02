@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    { "id": 1, "name": "Jane Dow", "phoneNumber": "234-567-8661" },
+    { "id": 2, "name": "Jane Smith", "phoneNumber": "234-567-8901" },
+    { "id": 4, "name": "Joe Smith", "phoneNumber": "456-789-0123" },
+    { "id": 5, "name": "John Doe", "phoneNumber": "567-890-1234" },
+    { "id": 6, "name": "John Smith", "phoneNumber": "678-901-2345" },
+    { "id": 7, "name": "Jane Doe", "phoneNumber": "789-012-3456" },
+    { "id": 8, "name": "Joe Doe", "phoneNumber": "890-123-4567" },
+    { "id": 9, "name": "John Blow", "phoneNumber": "901-234-5678" },
+    { "id": 10, "name": "Jane Blow", "phoneNumber": "012-345-6789" },
+    { "id": 11, "name": "Yonatan Kapash", "phoneNumber": "0504950952" }
+  ],
+  "calls": [
+    { "id": 1, "dateCalled": "2018-02-21 12:00:00", "callerId": 2 },
+    { "id": 3, "dateCalled": "2018-02-21 12:00:00", "callerId": 2 },
+    { "id": 5, "dateCalled": "2018-02-21 12:00:00", "callerId": 1 },
+    { "id": 6, "dateCalled": "2018-02-21 12:00:00", "callerId": 2 },
+    { "id": 7, "dateCalled": "2018-02-21 12:00:00", "callerId": 1 },
+    { "id": 8, "dateCalled": "2018-02-21 12:00:00", "callerId": 2 },
+    { "id": 9, "dateCalled": "2018-02-21 12:00:00", "callerId": 1 },
+    { "id": 10, "dateCalled": "2018-02-21 12:00:00", "callerId": 2 }
+  ]
+}
